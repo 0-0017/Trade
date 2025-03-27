@@ -4,8 +4,8 @@
 #define GET_API_URL(path) API_URL path
 
 Trade::Trade() : result(json::object()) {
-	key = "0d5SCp/0lAHmC7L4Jn1g23T9A2hnqsssggrgysvoObHsYdc79kgwmzoO";
-	secret = "8HvqvkwvkfRBgBz0Y2YigpNQqznc169qQHT3jnPz/xHqZw5JTpldi2XI0B980hJebtyX9vz9PsFtRCjGSfTYNw==";
+	key = "00000000000000000000000000000000000";
+	secret = "0000000000000000000000000000000000==";
 	postData = "";
 	timestamp = "";
 	signature = "";
