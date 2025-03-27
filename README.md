@@ -1,4 +1,4 @@
-﻿# Crypto Trading Bot
+# Crypto Trading Bot
 
 ## Warning
 **Tested on Windows only!** Compatibility with other operating systems is not guaranteed.
