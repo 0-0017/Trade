@@ -1,8 +1,8 @@
 #include "Transaction.h"
 
 Transaction::Transaction() {
-    id = "secret_dxdMsM8Ybc26AwICFk8hHrruOtJwz0zJbvi6QDfh2NH";
-    database = "94722e487e7848c3b562a7bb19493596";//32 characters long. numbers and letters.
+    id = "secret";
+    database = "00000000000000000000000000000000";//32 characters long. numbers and letters.
     text = "";
     requestBody = "";
     block = "";
