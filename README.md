@@ -1,8 +1,8 @@
 # Crypto Trading Bot
 
 ## Warning
-**Tested on Windows only!** Compatibility with other operating systems is not guaranteed.
-**Keys & Secrets Modified** To Utilize This Program Please Add Valid Keys and Secrets to Transaction & Trade cpps.
+- **Tested on Windows only!** Compatibility with other operating systems is not guaranteed.
+- **Keys & Secrets Modified** To Utilize This Program, Please Add Valid Keys and Secrets to Transaction & Trade cpps.
 
 ## Table of Contents
 - [Overview](#overview)
