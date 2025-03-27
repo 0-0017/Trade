@@ -37,18 +37,18 @@ This project is a **crypto trading bot** designed to interact with the **Kraken 
 
 ## Project Structure
 /src
-	|- Transaction.h/.cpp # Handles trade logging and transaction records.
-	|- Trade.h/.cpp # Manages API authentication, order execution, and balance status.
-	|- TechAnal.h/.cpp # Implements technical analysis (EMA, RSI, Stochastic).
-	|- Strategy.h/.cpp # Determines buy/sell signals based on market conditions.
-	|- main.cpp # Entry point, integrates all modules.
+	- |Transaction.h/.cpp # Handles trade logging and transaction records.
+	- |Trade.h/.cpp # Manages API authentication, order execution, and balance status.
+	- |TechAnal.h/.cpp # Implements technical analysis (EMA, RSI, Stochastic).
+	- |Strategy.h/.cpp # Determines buy/sell signals based on market conditions.
+	- |main.cpp # Entry point, integrates all modules.
 
 	
 ## Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/0-0017/Trade
-   cd Trade
+   cd Trade/projectScalar
 2. Install dependencies (for Windows, ensure OpenSSL and cURL are installed)
 3. Compile the project:
 	```sh
